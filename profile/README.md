@@ -1,4 +1,4 @@
-<p align="center"><a href="https://devtiersoftware.com/" target="_blank"><img src="https://i.postimg.cc/2ykcZmXZ/ICON.png"></a></p>
+<p align="center"><a href="https://devtiersoftware.com/" target="_blank"><img src="https://i.postimg.cc/2ykcZmXZ/ICON.png" width="400"></a></p>
 
 ## Hello there 👋
 
